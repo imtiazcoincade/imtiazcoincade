@@ -1,4 +1,4 @@
-[![MasterHead](https://marini.systems/wp-content/uploads/iStock-1459890079.jpg)]
+![MasterHead](https://marini.systems/wp-content/uploads/iStock-1459890079.jpg)
 <h1 align="center">Hello👋, I'm Mady</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRogdYn-Ie1tIjOxcsBRgtP0t8g1_5AGGTlgg&usqp=CAU" />
