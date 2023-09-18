@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Mady</h1>
+<h1 align="center">Hello👋, I'm Mady</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRogdYn-Ie1tIjOxcsBRgtP0t8g1_5AGGTlgg&usqp=CAU" />
-- 🔭 I’m currently working on **Backend**
-
+- 🔭 I’m currently working on MERN STACK Projects
+-Ask me about MERN
 - 📫 How to reach me **imtiaz@coincade.io**
 
 <h3 align="left">Connect with me:</h3>
