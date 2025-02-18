@@ -7,8 +7,6 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imtiazcoincade" alt="imtiazcoincade" /></a> </p>
 - 🔭 I’m currently working on *MERN STACK projects*
 
-- 🌱 I’m currently learning *NODE-JS, MongoDB*
-
 - 💬 Ask me about *MERN*
 
 - 📫 How to reach me *mohammedimtiaz2011@gmail.com*
